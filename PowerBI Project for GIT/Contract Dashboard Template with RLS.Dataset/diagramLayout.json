@@ -1,0 +1,319 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 64,
+            "y": 4
+          },
+          "nodeIndex": "DateTable",
+          "nodeLineageTag": "644ab6c1-2a03-418c-afaa-9a9ea52e37b8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 616.57213541666681,
+            "y": 120
+          },
+          "nodeIndex": "SubContractMeasures",
+          "nodeLineageTag": "d3faeba4-bb8f-4765-b2c8-cf2f89446ecf",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 367.80000000000018,
+            "y": 0
+          },
+          "nodeIndex": "AmendmentMeasures",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 615.05000000000018,
+            "y": 240.41666666666669
+          },
+          "nodeIndex": "RelatedContractsMeasures",
+          "nodeLineageTag": "15eace76-5630-43a4-a5eb-10ecd7f7a36d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 363.55000000000018,
+            "y": 354.99999999999994
+          },
+          "nodeIndex": "PricingMeasures",
+          "nodeLineageTag": "cf281d1c-25d2-4824-b583-368ef82c217d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 616.21666666666681,
+            "y": 358.33333333333337
+          },
+          "nodeIndex": "DedicationMeasures",
+          "nodeLineageTag": "6f9a113f-8eb9-4c8a-a29c-ac72b9b7057f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 367.6333333333335,
+            "y": 239.58333333333337
+          },
+          "nodeIndex": "RelatedLinksMeasures",
+          "nodeLineageTag": "32056098-4469-4367-adb5-949b3af5358c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 369.16666666666663,
+            "y": 120.83333333333334
+          },
+          "nodeIndex": "ContractMeasures",
+          "nodeLineageTag": "d07239c7-8118-4aac-86c5-0e8acead6394",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 612.8,
+            "y": 0
+          },
+          "nodeIndex": "EscalationMeasures",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1478.0111027049811,
+            "y": 521.66666666666663
+          },
+          "nodeIndex": "ContractList",
+          "nodeLineageTag": "9ad3804d-e289-446c-af07-9cd5a38bc1d8",
+          "size": {
+            "height": 344,
+            "width": 305.27866663501345
+          },
+          "zIndex": 21,
+          "expandedHeight": 860
+        },
+        {
+          "location": {
+            "x": 1409.3000000000002,
+            "y": 120
+          },
+          "nodeIndex": "Dedications",
+          "nodeLineageTag": "ed101bf5-b5ee-4b90-8471-bb0babd3fd03",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 14,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1104.9999999999998,
+            "y": 371.76666666666642
+          },
+          "nodeIndex": "SubContracts",
+          "nodeLineageTag": "cc93c0de-4361-4dc6-b750-1512ae59c9b9",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 19,
+          "expandedHeight": 224.93167701863354
+        },
+        {
+          "location": {
+            "x": 1707.4999999999998,
+            "y": 147
+          },
+          "nodeIndex": "RelatedContracts",
+          "nodeLineageTag": "aa132ecb-25a9-48a3-beaf-fd687a01d9f6",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 20,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 1961.2199792960666,
+            "y": 331.82505175983431
+          },
+          "nodeIndex": "RelatedLinks",
+          "nodeLineageTag": "d9dbf781-b784-4b33-8d98-fbefa8a8cb1c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 246.5
+        },
+        {
+          "location": {
+            "x": 1100.8333333333335,
+            "y": 545.41666666666663
+          },
+          "nodeIndex": "PrelimPricing",
+          "nodeLineageTag": "e5ce7842-63aa-4e68-800a-3098a810e449",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 15,
+          "expandedHeight": 296
+        },
+        {
+          "location": {
+            "x": 1058.9169187467267,
+            "y": 63.333333333333329
+          },
+          "nodeIndex": "Amendments",
+          "nodeLineageTag": "0f687413-f231-4816-96bc-4c8de4dfa178",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 536.25
+        },
+        {
+          "location": {
+            "x": 1098.286827843795,
+            "y": 744.761792785829
+          },
+          "nodeIndex": "EscalationPricing",
+          "nodeLineageTag": "60e6fc0d-56de-4612-870a-a991007edc24",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 17,
+          "expandedHeight": 408.75
+        },
+        {
+          "location": {
+            "x": 1803.1882308499219,
+            "y": 753.32981597844059
+          },
+          "nodeIndex": "FeePricing",
+          "nodeLineageTag": "cab85866-c0a7-4827-99d1-a47e7e7a6a45",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 18,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1995.1571962034427,
+            "y": 504.62919338802669
+          },
+          "nodeIndex": "FuelPricing",
+          "nodeLineageTag": "8e593e59-d143-4636-87be-50bd8bd28ded",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 306.67579288078718
+        },
+        {
+          "location": {
+            "x": 1174.8293871499645,
+            "y": 1018.1297905338033
+          },
+          "nodeIndex": "NGLPricing",
+          "nodeLineageTag": "4c5705af-fd3f-4b9e-83ba-7212a6673896",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 16,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1805.7529918533103,
+            "y": 1019.5833333333333
+          },
+          "nodeIndex": "ResiduePricing",
+          "nodeLineageTag": "d7fe8d13-d805-4fdb-81c5-651a9c511365",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 22,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1485.9784355279769,
+            "y": 1177.3353986404447
+          },
+          "nodeIndex": "Users",
+          "nodeLineageTag": "c50c8f49-9a29-44ee-999d-0bbabe60b761",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 248
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
